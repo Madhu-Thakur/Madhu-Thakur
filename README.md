@@ -1,3 +1,4 @@
+![logo](https://github.com/Madhu-Thakur/Madhu-Thakur/blob/main/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
  <h1 align="center">Hi 👋, I'm Madhu Thakur</h1>
 <h3 align="center">From Punjab, India. I am a well-focused web developer👨‍💻. I am passionate about building fully functional web, applications. I am skilled in HTML, CSS, JavaScript.I have a strong foundation in programming,particularly in Java and actively working on enhancing my problem-solving and logical thinking skills</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
